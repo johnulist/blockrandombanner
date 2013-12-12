@@ -1,0 +1,4 @@
+blockrandombanner
+=================
+
+Prestashop module
